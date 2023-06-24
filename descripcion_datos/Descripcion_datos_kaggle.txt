@@ -1,0 +1,20 @@
+- PlayerName: Nombre del jugador de fútbol.
+- Affiliation: El club o equipo al que está asociado el futbolista.
+- League: La liga de fútbol en la que compite el club del jugador.
+- Jersey: El número de la camiseta del jugador.
+- Age: La edad actual del jugador.
+- birthPlace: Lugar de nacimiento del jugador.
+- Citizenship 1: Primera ciudadanía del jugador.
+- Position: Posición principal del jugador en el campo.
+- Position 2: Segunda posición en la que puede jugar el futbolista.
+- Foot: Pie con el que el jugador es dominante (derecho, izquierdo o ambos).
+- Agent: Agente o representante del jugador.
+- ContractExpiration: Fecha de vencimiento del contrato actual con su club.
+- nationality: Nacionalidad del jugador.
+- Games Played: Número total de partidos jugados.
+- Market Value (Euros): Valor actual de mercado del jugador en euros.
+- Accumulated Transfer Sums (Euros): Suma acumulada de todas las tarifas de transferencia pagadas por el jugador a lo largo de su carrera, en euros.
+- Highest Market Value (Euros): El valor de mercado más alto que ha tenido el jugador en su carrera, en euros.
+- NationalTeamCaps: Número de veces que el jugador ha sido seleccionado para jugar en su equipo nacional.
+- MostRecentInjury: Lesión más reciente que el jugador ha sufrido, si aplica.
+- Height (cm): Altura del jugador en centímetros.
